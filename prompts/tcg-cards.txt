@@ -1,0 +1,26 @@
+creat a script to creat a table in postergresql
+
+- the fist table is a table to save a pokemon tcg cards
+- the second table is a table to save collections set
+
+connect to tables with FOREIGN KEY
+
+firt table: tbl_cards
+- id
+- hp
+- name
+- type
+- stage
+- info
+- attack
+- dammage
+- weak
+- ressis.
+- retreat
+- cardNumberInCollection
+
+the second table: tbl_collections
+- id
+- collectionSetName
+- release date
+- totalCardsInCollection
